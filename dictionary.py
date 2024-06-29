@@ -1,4 +1,3 @@
-# Python
 import requests, os
 from tabulate import tabulate
 

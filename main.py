@@ -1,4 +1,3 @@
-# Python
 from dictionary import get_definition
 
 def main():
