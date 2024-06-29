@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.009" timestamp="2024-06-29T10:01:00.028869" hostname="MAC-K71Q6T9C9M"><testcase classname="test_dictionary.TestCLI" name="test_get_definition" time="0.001" /></testsuite></testsuites>

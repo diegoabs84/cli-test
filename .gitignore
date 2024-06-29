@@ -1,0 +1,25 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+# Directories
+bin/
+include/
+lib/
+lib64/
+share/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Docker
+*.tar
