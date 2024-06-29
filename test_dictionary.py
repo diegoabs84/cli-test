@@ -1,4 +1,3 @@
-# Python
 import unittest, os, pytest
 from unittest.mock import patch, Mock
 from dictionary import get_definition
